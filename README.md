@@ -40,3 +40,11 @@ Mathematical Programming
   
   Data Processing
   --weather_master.py (溫度數據處理)
+
+Image Processing
+  Fire Detection
+  --fire.py (森林火災偵測)
+
+  Image Transformations
+  --mirror_lake.py (鏡像反射效果)
+  --blur.py (模糊處理演算法)
