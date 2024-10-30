@@ -2,6 +2,18 @@
 Lerning Python and do some project here
 
 
+Karel Programming
+Basic Navigation & Tasks
+--CollectNewsPaperKarel (基礎移動與任務)
+--StoneMasonKarel (柱子填充)
+
+Pattern Generation
+--CheckerboardKarel (棋盤圖案)
+--MidpointFindingKarel (中點尋找)
+
+
+
+
 Mathematical Programming
 Mathematical Functions
 --quadratic_solver.py (二次方程求解)
