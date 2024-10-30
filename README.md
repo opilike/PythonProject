@@ -2,7 +2,7 @@
 Lerning Python and do some project here
 
 
-Math
+Mathematical Programming
 Mathematical Functions
 --quadratic_solver.py (二次方程求解)
 --hailstone.py (冰雹序列)
